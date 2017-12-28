@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeWorkspace" PROJECT_DIR="$PROJECT_DIR$" />
+  <component name="CidrRootsConfiguration">
+    <sourceRoots>
+      <file path="$PROJECT_DIR$/dir1" />
+      <file path="$PROJECT_DIR$/dir3/dir31" />
+      <file path="$PROJECT_DIR$/dir5" />
+    </sourceRoots>
+    <libraryRoots>
+      <file path="$PROJECT_DIR$/anna" />
+      <file path="$PROJECT_DIR$/dir2" />
+      <file path="$PROJECT_DIR$/dir3" />
+      <file path="$PROJECT_DIR$/dir6" />
+      <file path="$PROJECT_DIR$/dir7" />
+    </libraryRoots>
+    <excludeRoots>
+      <file path="$PROJECT_DIR$/dir1/dir12/dir123" />
+      <file path="$PROJECT_DIR$/dir3/dir32" />
+      <file path="$PROJECT_DIR$/dir4" />
+    </excludeRoots>
+  </component>
+</project>
