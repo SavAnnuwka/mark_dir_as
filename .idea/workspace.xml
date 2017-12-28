@@ -12,43 +12,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a4a54d8-5329-445a-912c-fedb44b87864" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CMakeCCompiler.cmake" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CMakeCXXCompiler.cmake" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CMakeDetermineCompilerABI_C.bin" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CMakeDetermineCompilerABI_CXX.bin" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CMakeSystem.cmake" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CompilerIdC/CMakeCCompilerId.c" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CompilerIdC/a.out" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CompilerIdCXX/CMakeCXXCompilerId.cpp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CompilerIdCXX/a.out" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.c" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.cxx" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/untitled24.dir/DependInfo.cmake" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/untitled24.dir/build.make" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/untitled24.dir/cmake_clean.cmake" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/untitled24.dir/depend.make" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/untitled24.dir/flags.make" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/untitled24.dir/link.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/untitled24.dir/progress.make" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/untitled24" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/untitled24.cbp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/untitled24.dSYM/Contents/Info.plist" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/untitled24.dSYM/Contents/Resources/DWARF/untitled24" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dir3/dir3/x.cpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dir3/dir31/a.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dir5/ax.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dir6/aaa.h" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" afterPath="$PROJECT_DIR$/CMakeLists.txt" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/untitled24.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/untitled24.dir/DependInfo.cmake" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/untitled24.dir/build.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/untitled24.dir/build.make" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/untitled24.dir/cmake_clean.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/untitled24.dir/cmake_clean.cmake" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/untitled24.dir/link.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/untitled24.dir/link.txt" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/untitled24.cbp" afterPath="$PROJECT_DIR$/cmake-build-debug/untitled24.cbp" />
+      <change beforePath="$PROJECT_DIR$/dir1/dir12/dir123/anna.cpp" afterPath="$PROJECT_DIR$/dir9/dir12/dir123/anna.cpp" />
+      <change beforePath="$PROJECT_DIR$/dir1/dir12/dir123/anna.h" afterPath="$PROJECT_DIR$/dir9/dir12/dir123/anna.h" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <ignored path="$PROJECT_DIR$/cmake-build-release/" />
@@ -68,7 +46,7 @@
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" column="102" lean-forward="false" selection-start-line="5" selection-start-column="102" selection-end-line="5" selection-end-column="102" />
+              <caret line="5" column="154" lean-forward="false" selection-start-line="5" selection-start-column="154" selection-end-line="5" selection-end-column="154" />
               <folding />
             </state>
           </provider>
@@ -85,7 +63,7 @@
         </entry>
       </file>
       <file leaf-file-name="anna.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dir1/dir12/dir123/anna.cpp">
+        <entry file="file://$PROJECT_DIR$/dir9/dir12/dir123/anna.cpp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -95,7 +73,7 @@
         </entry>
       </file>
       <file leaf-file-name="anna.h" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dir1/dir12/dir123/anna.h">
+        <entry file="file://$PROJECT_DIR$/dir9/dir12/dir123/anna.h">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -104,11 +82,63 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="a.h" pinned="false" current-in-tab="true">
+      <file leaf-file-name="a.h" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dir3/dir32/a.h">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="misc.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="x.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dir3/dir3/x.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#2#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="a.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dir3/dir31/a.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ax.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dir5/ax.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="aaa.h" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dir6/aaa.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -156,37 +186,77 @@
             <path>
               <item name="untitled24" type="b2602c69:ProjectViewProjectNode" />
               <item name="untitled24" type="462c0819:PsiDirectoryNode" />
-              <item name="dir1" type="462c0819:PsiDirectoryNode" />
+              <item name="dir3" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="untitled24" type="b2602c69:ProjectViewProjectNode" />
               <item name="untitled24" type="462c0819:PsiDirectoryNode" />
-              <item name="dir1" type="462c0819:PsiDirectoryNode" />
+              <item name="dir3" type="462c0819:PsiDirectoryNode" />
+              <item name="dir3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled24" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled24" type="462c0819:PsiDirectoryNode" />
+              <item name="dir3" type="462c0819:PsiDirectoryNode" />
+              <item name="dir31" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled24" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled24" type="462c0819:PsiDirectoryNode" />
+              <item name="dir5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled24" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled24" type="462c0819:PsiDirectoryNode" />
+              <item name="dir6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled24" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled24" type="462c0819:PsiDirectoryNode" />
+              <item name="dir9" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled24" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled24" type="462c0819:PsiDirectoryNode" />
+              <item name="dir9" type="462c0819:PsiDirectoryNode" />
               <item name="dir12" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="untitled24" type="b2602c69:ProjectViewProjectNode" />
               <item name="untitled24" type="462c0819:PsiDirectoryNode" />
-              <item name="dir1" type="462c0819:PsiDirectoryNode" />
+              <item name="dir9" type="462c0819:PsiDirectoryNode" />
               <item name="dir12" type="462c0819:PsiDirectoryNode" />
               <item name="dir123" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="untitled24" type="b2602c69:ProjectViewProjectNode" />
-              <item name="untitled24" type="462c0819:PsiDirectoryNode" />
-              <item name="dir3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="untitled24" type="b2602c69:ProjectViewProjectNode" />
-              <item name="untitled24" type="462c0819:PsiDirectoryNode" />
-              <item name="dir3" type="462c0819:PsiDirectoryNode" />
-              <item name="dir32" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scope">
+        <subPane subId="Project Source Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="untitled24" type="cbb8eebc:String" user="untitled24" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <subPane subId="Project Non-Source Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="untitled24" type="cbb8eebc:String" user="untitled24" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="untitled24" type="cbb8eebc:String" user="untitled24" />
+              <item name=".idea" type="cbb8eebc:String" user=".idea" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -238,6 +308,7 @@
       <workItem from="1514388308124" duration="4000" />
       <workItem from="1514445506277" duration="256000" />
       <workItem from="1514446307723" duration="851000" />
+      <workItem from="1514449289769" duration="629000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1514447646518</created>
@@ -264,31 +335,29 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7509000" />
+    <option name="totallyTimeSpent" value="8648000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="798" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" internal_type="DOCKED" order="0" visible="true" weight="0.25440452" />
+      <window_info active="true" content_ui="combo" id="Project" internal_type="DOCKED" order="0" visible="true" weight="0.24947146" />
       <window_info anchor="bottom" id="TODO" internal_type="DOCKED" order="6" />
-      <window_info anchor="bottom" id="Messages" internal_type="DOCKED" order="7" sideWeight="0.49964765" weight="0.32859176" />
       <window_info anchor="bottom" id="CMake" internal_type="DOCKED" order="7" weight="0.32859176" />
-      <window_info anchor="bottom" id="Event Log" internal_type="DOCKED" order="7" sideWeight="0.5010571" side_tool="true" visible="true" weight="0.57610244" />
+      <window_info anchor="bottom" id="Event Log" internal_type="DOCKED" order="7" sideWeight="0.5017618" side_tool="true" visible="true" weight="0.32859176" />
       <window_info anchor="bottom" id="Run" internal_type="DOCKED" order="2" weight="0.33997154" />
-      <window_info anchor="bottom" id="Version Control" internal_type="DOCKED" order="7" sideWeight="0.49964765" weight="0.32859176" />
+      <window_info anchor="bottom" id="Version Control" internal_type="DOCKED" order="7" sideWeight="0.4982382" visible="true" weight="0.32859176" />
       <window_info id="Structure" internal_type="DOCKED" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" internal_type="DOCKED" order="7" sideWeight="0.4989429" visible="true" weight="0.57610244" />
+      <window_info anchor="bottom" id="Terminal" internal_type="DOCKED" order="7" sideWeight="0.4989429" weight="0.57610244" />
       <window_info anchor="bottom" id="Debug" internal_type="DOCKED" order="3" weight="0.39944905" />
       <window_info id="Favorites" internal_type="DOCKED" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" internal_type="DOCKED" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" internal_type="DOCKED" order="5" weight="0.4" />
-      <window_info content_ui="combo" id="Project" internal_type="DOCKED" order="0" visible="true" weight="0.24964234" />
       <window_info anchor="right" id="Commander" internal_type="DOCKED" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" internal_type="DOCKED" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" internal_type="DOCKED" order="6" />
       <window_info anchor="bottom" id="Message" internal_type="DOCKED" order="0" />
       <window_info anchor="bottom" id="Cvs" internal_type="DOCKED" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" internal_type="DOCKED" order="1" />
+      <window_info anchor="bottom" id="Messages" internal_type="DOCKED" order="7" sideWeight="0.49964765" weight="0.32859176" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -339,6 +408,54 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="102" lean-forward="false" selection-start-line="5" selection-start-column="102" selection-end-line="5" selection-end-column="102" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dir9/dir12/dir123/anna.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dir9/dir12/dir123/anna.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dir3/dir32/a.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="28" lean-forward="false" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -506,7 +623,7 @@
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" column="102" lean-forward="false" selection-start-line="5" selection-start-column="102" selection-end-line="5" selection-end-column="102" />
+          <caret line="5" column="154" lean-forward="false" selection-start-line="5" selection-start-column="154" selection-end-line="5" selection-end-column="154" />
           <folding />
         </state>
       </provider>
@@ -519,7 +636,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dir1/dir12/dir123/anna.cpp">
+    <entry file="file://$PROJECT_DIR$/dir9/dir12/dir123/anna.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -527,7 +644,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dir1/dir12/dir123/anna.h">
+    <entry file="file://$PROJECT_DIR$/dir9/dir12/dir123/anna.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -539,14 +656,55 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="13" lean-forward="true" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dir3/dir32/a.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dir3/dir3/x.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#2#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dir3/dir31/a.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dir5/ax.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dir6/aaa.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>

@@ -82,13 +82,25 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/jetbrains/ClionProjects/untitled24/dir1/dir12/dir123/anna.cpp">
+		<Unit filename="/Users/jetbrains/ClionProjects/untitled24/dir3/dir3/x.cpp">
 			<Option target="untitled24"/>
 		</Unit>
-		<Unit filename="/Users/jetbrains/ClionProjects/untitled24/dir1/dir12/dir123/anna.h">
+		<Unit filename="/Users/jetbrains/ClionProjects/untitled24/dir3/dir31/a.h">
 			<Option target="untitled24"/>
 		</Unit>
 		<Unit filename="/Users/jetbrains/ClionProjects/untitled24/dir3/dir32/a.h">
+			<Option target="untitled24"/>
+		</Unit>
+		<Unit filename="/Users/jetbrains/ClionProjects/untitled24/dir5/ax.h">
+			<Option target="untitled24"/>
+		</Unit>
+		<Unit filename="/Users/jetbrains/ClionProjects/untitled24/dir6/aaa.h">
+			<Option target="untitled24"/>
+		</Unit>
+		<Unit filename="/Users/jetbrains/ClionProjects/untitled24/dir9/dir12/dir123/anna.cpp">
+			<Option target="untitled24"/>
+		</Unit>
+		<Unit filename="/Users/jetbrains/ClionProjects/untitled24/dir9/dir12/dir123/anna.h">
 			<Option target="untitled24"/>
 		</Unit>
 		<Unit filename="/Users/jetbrains/ClionProjects/untitled24/main.cpp">
